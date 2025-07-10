@@ -1,10 +1,10 @@
 # REAL-TIME-CHAT-APPLICATION
-COMPANY: CODTECH IT SOLUTIONS
-NAME: DIVYANJALI DINKAR
-INTERN ID: CT04DN697
-DOMAIN : FRONT END DEVELOPMENT
-DURATION : 4 WEEKS
-MENTOR : NEELA SANTOSH
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: DIVYANJALI DINKAR
+*INTERN ID*: CT04DN697
+*DOMAIN* : FRONT END DEVELOPMENT
+*DURATION*: 4 WEEKS
+*MENTOR* : NEELA SANTOSH
 ##Project Title: Real-Time Chat Application
 Description:
 The Real-Time Chat Application is an interactive and responsive web application communication platform where users can send messages in real-time utilizing contemporary web technologies. The project illustrates the use of full-duplex communication through WebSockets by means of Socket.IO, with a stylishly styled front-end crafted in React.js.
